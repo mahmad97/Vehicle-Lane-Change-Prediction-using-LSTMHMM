@@ -1,0 +1,17 @@
+# folders with data files
+/data/processed/I-80/*
+/data/processed/US-101/*
+/data/raw/I-80/*
+/data/raw/US-101/*
+
+# models
+/models/HMM/*
+/models/LSTM/*
+/models/LSTMHMM/*
+
+# python and jupyter
+/.ipynb_checkpoints
+/__pycache__
+
+# miscellaneous
+.DS_Store
